@@ -3,7 +3,7 @@
 ソフトクリームファンのロゴ
 
 <p align="center">
-  <img src="./SOFTCREAMFANLOOGO.png" alt="ソフトクリームファンのロゴ" width="520">
+  <img src="./SOFTCREAMFANLOGO.png" alt="ソフトクリームファンのロゴ" width="520">
 </p>
 
 つくると！10 ワークショップ用チラシ
