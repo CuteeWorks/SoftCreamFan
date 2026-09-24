@@ -1,11 +1,5 @@
 ソフトクリームファンの画像 🍦
 
-ソフトクリームファンのロゴ
-
-<p align="center">
-  <img src="./SOFTCREAMFANLOGO.png" alt="ソフトクリームファンのロゴ" width="520">
-</p>
-
 つくると！10 ワークショップ用チラシ
 
 <p align="center">
@@ -24,4 +18,10 @@ PCB用ロゴアート
 </p>
 <p align="center">
   <img src="./つくると！10ワークショップで作られたもの.jpeg" alt="つくると！10ワークショップで作られたもの" width="420">
+</p>
+
+ソフトクリームファンのロゴ
+
+<p align="center">
+  <img src="./SOFTCREAMFANLOGO.png" alt="ソフトクリームファンのロゴ" width="520">
 </p>
