@@ -89,7 +89,7 @@ enclosure/   ソフトクリーム型筐体
 
 ## CuteeWorks
 
-電子工作を、もっと可愛く、もっと楽しく。
+電子工作に可愛いが加わったら、きっと、最強！
 
 - Facebook: [https://www.facebook.com/jyoshidarake](https://www.facebook.com/jyoshidarake)
 - Instagram: [https://www.instagram.com/jyoshidarake](https://www.instagram.com/jyoshidarake)
